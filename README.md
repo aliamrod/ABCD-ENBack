@@ -9,6 +9,11 @@ substance use and attitudes, gender identity and sexual health, biospecimens, as
 
 In addition, various external databases have been linked with ABCD Study data providing information about local conditions for environment, poverty, pollution, school, and policy, as examples. These can be used for providing context when evaluating behavioral and brain development. 
 
+** In sum-- ABCD Study is a longitudinal study collecting neuroimaging, neurocognitive, genetic, physiological, psychosocial, and other behavioral data from ~12,000 sociodemographically diverse youth recruited from 9-10 years of age, from across the USA, to investigate the host of factors that may affect adolescent health. Enrollment to the ABCD Study occurred between 2018 and 2018, with annual visits of participants for up to 10 years. As a commitment to open and reproducible science, data from the ABCD Study is publicly available for users to access, further highlighting the importance of addressing the responsible use of these data, as well as the perpetuation and reproduction of narratives and practices that impact historically minoritized populations as a result of their misuse. 
+
+> This is a blockquote
+> It highlights an entire block of text.
+
 
 
 ### References
