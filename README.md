@@ -17,6 +17,9 @@ In addition, various external databases have been linked with ABCD Study data pr
 
 ### References
 
+[1] _ABCD Study: fMRI Tasks_. Casey, B. J., Cannonier, T., Conley, M. I., Cohen, A. O., Barch, D. M., Heitzeg, M. M., … & Orr, C. A. (2018). The adolescent brain cognitive development (ABCD) study: imaging acquisition across 21 sites. Developmental cognitive neuroscience.
+
+
 [1] https://nda.nih.gov/abcd 
  
 
