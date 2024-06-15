@@ -15,6 +15,24 @@ In addition, various external databases have been linked with ABCD Study data pr
 
 
 
+## Tech Stack 
+
+Using Apache Airflow to construct a data ingestion pipeline that preprocesses and normalizes data involves several steps. Below is a deconstruction of the required data engineering tech stack and Airflow DAG (Directed Acyclic Graph) to orchestrate the workflow. 
+
+* Apache Airflow => for orchestration and scheduling of workflows
+* Python => for scripting and implementing data processing logic
+* Pandas => for data preprocessing and normalization
+* Docker => for containerization and consistent deployment environments
+* PostgreSQL => as the metadata database for Airflow
+* Amazon S3 / Google Cloud Storage / Azure Blob Storage => for storing raw and preprocessed data
+* Spark => for large-scale data processing if needed
+* AWS Glue / Databricks (optional) => for ETL (Extract, Transform, Load) if the dataset is significantly large
+
+
+
+
+
+
 ### References
 
 [1] _ABCD Study: fMRI Tasks_. Casey, B. J., Cannonier, T., Conley, M. I., Cohen, A. O., Barch, D. M., Heitzeg, M. M., … & Orr, C. A. (2018). The adolescent brain cognitive development (ABCD) study: imaging acquisition across 21 sites. Developmental cognitive neuroscience.
