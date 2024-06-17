@@ -9,8 +9,7 @@ Data from multisite magnetic resonance imaging (MRI) studies contain variance at
 ## 
 
 
-==testing==
-$${\color{blue}Blue}$$
+$${\color{TESTING}Blue}$$
 
  The Adolescent Cognitive Brain Development (ABCD) study is an ongoing, longitudinal neuroimaging study acquiring data from over 11,000 children starting at 9-10 years of age. These scans are acquired on 29 different scanners of 5 different model types manufactured by 3 different vendors. Publicly available data from the ABCD study include structural MRI (sMRI) measures such as cortical thickness and diffusion MRI (dMRI) measures such as fractional anisotropy. In this work, we 1) quantify the variance attributable to scanner effects in the sMRI and dMRI datasets, 2) demonstrate the effectiveness of the data harmonization approach called ComBat to address scanner effects, and 3) present a simple, open-source tool for investigators to harmonize image features from the ABCD study. Scanner-induced variance was present in every image feature and varied in magnitude by feature type and brain location. For almost all features, scanner variance exceeded variability attributable to age and sex. ComBat harmonization was shown to effectively remove scanner induced variance from all image features while preserving the biological variability in the data. Moreover, we show that for studies examining relatively small subsamples of the ABCD dataset, the use of ComBat harmonized data provides more accurate estimates of effect sizes compared to controlling for scanner effects using ordinary least squares regression.
 
