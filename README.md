@@ -16,7 +16,7 @@ To that end, we have created this simple-to-use tool to enable investigators to 
 
 [1] "_ABCD_Harmonizer: An Open-source Tool for Mapping and Controlling for Scanner Induced Variance in the Adolescent Brain Cognitive Development Study_". Date of Access: 17 June, 2024. 
 
-[2]
+[2] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6981278/
 
 [3]
 
