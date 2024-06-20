@@ -16,7 +16,6 @@ To that end, we have created this simple-to-use tool to enable investigators to 
 
 The emotional n-back task consisted of 160 trials divided into 2 runs. The task was performed in the scanner while collecting functional magnetic resonance imaging data. Each run consisted of 8 blocks, each with 10 trials. For each trial, the objective was to decide whether the current stimulus matched a target stimulus (Figure 1A). In the 0-back condition, the target stimulus was presented before the first trial in each block, and the participants were asked to decide whether the current stimulus matched the target stimulus. In the 2-back condition, participants responded whether the stimulus on the current trial matched the stimulus presented 2 trials back. The stimulus and target matched in 20% of the trials. For the remaining trials, the stimulus did not match the target, and the stimulus on the current trial either had (lure, 25% of trials) or had not (nonlure, 55%) been presented earlier in the block.
 
-https://ars.els-cdn.com/content/image/1-s2.0-S2451902222000787-gr1.jpg![image](https://github.com/aliamrod/ABCD-preproc/assets/62684338/418289c5-67ae-48d3-bbea-b10fad8bddc5)
 
 
 
