@@ -1,13 +1,3 @@
-# Match SRC_Subject_ID and concatenate to original "fmriresults01.csv" file. 
-
-# Load required libraries
-import pandas as pd 
-
-# Define file paths
-data1_path = '/Users/aliamahama-rodriguez/local/fmriresults01.csv'
-data2_path = '/Users/aliamahama-rodriguez/local/mri_y_tfmr_nback_beh.csv'
-output_file_path = '/Users/aliamahama-rodriguez/local/concatenated_files.csv'
-
 # (1) Load provided data into dataframe
 # Match SRC_Subject_ID and concatenate to original "fmriresults01.csv" file. 
 
