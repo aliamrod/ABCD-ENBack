@@ -32,7 +32,7 @@ To that end, we have created this simple-to-use tool to enable investigators to 
 
 
 
-https://ars.els-cdn.com/content/image/1-s2.0-S2451902222000787-gr1_lrg.jpg![image](https://github.com/aliamrod/ABCD-ENBack/assets/62684338/d6d2bfd2-c486-4680-b6b9-7af4fdbddf87)
+![image](https://github.com/aliamrod/ABCD-ENBack/assets/62684338/09a63ecd-2085-474d-b4d5-55e74857e6a9)
 
 
 Figure 01. 
